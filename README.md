@@ -1,5 +1,5 @@
 <h2>About me</h2>
-<p>Full-stack developer focused on building efficient and scalable systems🪴</p>
+<p>Full-stack developer focused on building efficient and scalable systems</p>
     
 <h4>Tech Stack</h4>
 <p>
